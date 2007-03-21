@@ -1,0 +1,6 @@
+module sourceCardTextToRctDigi = SourceCardTextToRctDigi { 
+    InputTag RctOutputLabel= RCTRegionSumsEmCands
+    string TextFileName = "RctDigiToSourceCardText.dat"
+    int32 SkipEvents = 0
+}
+
