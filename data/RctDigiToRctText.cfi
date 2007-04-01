@@ -1,0 +1,6 @@
+module rctDigiToRctText = RctDigiToRctText { 
+    InputTag RctInputLabel = RCTRegionSumsEmCands
+    string TextFileName = "testRctEl_"
+    bool HexUpperCase = false
+}
+
