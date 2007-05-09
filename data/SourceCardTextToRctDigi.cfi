@@ -1,5 +1,5 @@
 module sourceCardTextToRctDigi = SourceCardTextToRctDigi { 
     string TextFileName = "RctDigiToSourceCardText.dat"
-    int32 SkipEvents = 0
+    int32 fileEventOffset = 0
 }
 
