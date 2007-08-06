@@ -1,6 +1,6 @@
 module rctTextToRctDigi = RctTextToRctDigi { 
-    InputTag RctOutputLabel= RCTRegionSumsEmCands
+    InputTag RctOutputLabel = RCTRegionSumsEmCands
     string TextFileName = "data/testElectronsRct_"
-    int32 SkipEvents = 0
+    int32 FileEventOffset = 0
 }
 
