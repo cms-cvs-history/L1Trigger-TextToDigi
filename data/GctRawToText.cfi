@@ -1,0 +1,5 @@
+module gctRawToText = RawToText {
+    InputTag inputLabel = text2raw
+    untracked string filename = "gctFromRaw.txt"
+    untracked int32 GctFedId = 745
+}
