@@ -1,5 +1,0 @@
-module gctDigiToPsbText = GctDigiToPsbText {
-    InputTag GctInputLabel = gtPsbTextToDigi
-    string TextFileName = "psb-out-"
-    untracked bool HexUpperCase = false
-}
