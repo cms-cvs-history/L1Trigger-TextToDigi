@@ -1,4 +1,0 @@
-module rctDigiToSourceCardText = RctDigiToSourceCardText { 
-    InputTag RctInputLabel = L1RCTRegionSumsEmCands
-    string TextFileName = "RctDigiToSourceCardText.dat"
-}
