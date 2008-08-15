@@ -1,6 +1,0 @@
-module gtPsbTextToDigi = GtPsbTextToDigi {
-    string TextFileName = "psb-"
-    untracked int32 FileEventOffset = 0
-}
-#expects files named
-# TextFileName?.txt with ?=0,1,6,7
